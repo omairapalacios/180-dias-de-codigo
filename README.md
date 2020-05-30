@@ -19,3 +19,5 @@
  - Día 8 - Tablas en HTML: [Reto](https://omairapalacios.github.io/180-dias-de-codigo/dia-8/reto.html)
 
  - Día 9 - Publicando tu Web en Internet [GitHub]
+
+ - Día 10 - Introducción a CSS: [Reto](https://omairapalacios.github.io/180-dias-de-codigo/dia-10/reto.html)
