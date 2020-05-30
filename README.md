@@ -13,3 +13,5 @@
  - Día 5 - Icono de tu Web, Comentarios y Formato: [Reto](https://omairapalacios.github.io/180-dias-de-codigo/dia-5/reto.html)
 
  - Día 6 - Emojis y Rutas de Archivos en HTML: [Reto](https://omairapalacios.github.io/180-dias-de-codigo/dia-6/reto.html)
+
+ - Día 7 - Solución de Tareas 1ra Semana: [Mis soluciones](https://omairapalacios.github.io/180-dias-de-codigo/dia-7/reto.html)
