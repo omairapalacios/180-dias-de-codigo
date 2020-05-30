@@ -11,3 +11,5 @@
  - Día 4 - Enlaces con Imágenes, Videos y Mapas: [Reto](https://omairapalacios.github.io/180-dias-de-codigo/dia-4/reto.html)
 
  - Día 5 - Icono de tu Web, Comentarios y Formato: [Reto](https://omairapalacios.github.io/180-dias-de-codigo/dia-5/reto.html)
+
+ - Día 6 - Día 6 - Emojis y Rutas de Archivos en HTML: [Reto](https://omairapalacios.github.io/180-dias-de-codigo/dia-6/reto.html)
