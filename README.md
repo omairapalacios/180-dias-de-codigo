@@ -17,3 +17,4 @@
  - Día 7 - Solución de Tareas 1ra Semana: [Mis soluciones](https://omairapalacios.github.io/180-dias-de-codigo/dia-7/reto.html)
 
  - Día 8 - Tablas en HTML: [Reto](https://omairapalacios.github.io/180-dias-de-codigo/dia-8/reto.html)
+
