@@ -8,6 +8,6 @@
 
  - Día 3 - HTML: Enlaces! :  [Clase](https://omairapalacios.github.io/180-dias-de-codigo/dia-3/clase.html) | [Reto](https://omairapalacios.github.io/180-dias-de-codigo/dia-3/reto/index.html)
 
- - Día 4 - Enlaces con Imágenes, Videos y Mapas:  [Clase](https://omairapalacios.github.io/180-dias-de-codigo/dia-3/clase.html) | [Reto](https://omairapalacios.github.io/180-dias-de-codigo/dia-3/reto/index.html)
+ - Día 4 - Enlaces con Imágenes, Videos y Mapas:  [Clase](https://omairapalacios.github.io/180-dias-de-codigo/dia-3/clase.html) | [Reto](https://omairapalacios.github.io/180-dias-de-codigo/dia-4/index.html)
 
  - Día 5 - Enlaces con Imágenes, Videos y Mapas:  [Clase](https://omairapalacios.github.io/180-dias-de-codigo/dia-3/clase.html) | [Reto](https://omairapalacios.github.io/180-dias-de-codigo/dia-3/reto/index.html)
