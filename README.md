@@ -21,3 +21,7 @@
  - Día 9 - Publicando tu Web en Internet [GitHub]
 
  - Día 10 - Introducción a CSS: [Reto](https://omairapalacios.github.io/180-dias-de-codigo/dia10/reto.html)
+
+ - Día 11 - Introducción a CSS: [Reto](https://omairapalacios.github.io/180-dias-de-codigo/dia11/clase.html)
+
+ - Día 12 - Git en la Terminal [GitHub]
