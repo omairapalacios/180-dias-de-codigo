@@ -27,3 +27,6 @@
  - Día 12 - Git en la Terminal [GitHub]
 
  - Día 13 - Agregando Fuentes a Tu Página: [Reto](https://omairapalacios.github.io/180-dias-de-codigo/dia13/clase.html)
+
+ - Día 14 - CSS Layout: [Reto](https://omairapalacios.github.io/180-dias-de-codigo/dia14/clase.html)
+
